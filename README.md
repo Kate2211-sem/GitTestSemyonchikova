@@ -1,1 +1,3 @@
 # GitTestSemyonchikova
+Тестовый репозиторий
+Ура
